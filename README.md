@@ -1,5 +1,3 @@
-This tutorial will help you to get your vESPrino dongle up and running in few minutes
-
 ###What is the vESPrino-dongle?
 Essentially this is an ESP8266-based board that has several improvement that make it more suitable for productive projects than other boards
 * USB-2-Serial module - so that no additional hardware is require to program it
