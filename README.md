@@ -1,5 +1,6 @@
 ###What is the vESPrino-dongle?
 Essentially this is an ESP8266-based board that has several improvement that make it more suitable for productive projects than other boards
+* ESP-12F ESP8266 Wifi Board - 4MB of memory!
 * USB-2-Serial module - so that no additional hardware is require to program it
 * Convenient button tied to GPIO0 and pulled-up by default
 * WS2812B LED tied to GPIO2 (so that driving via NeoEsp8266Uart800KbpsMethod is possible)
